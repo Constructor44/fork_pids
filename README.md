@@ -13,6 +13,7 @@
     <td>Something went wrong</td>
   </tr>
 </table>
+<p><i>Note: pid 1 usually belongs to the system itself, so it won't be asigned to any other programs</i></p>
 <table>
   <tr>
     <th colspan="2">useful functions</th>
