@@ -27,3 +27,8 @@
     <td>Returns the pid of the parent process, <br><i>or if already terminated the pid of the process it has been reparented to</i></td>
   </tr>
 </table>
+<br>
+<h4>Installation:</h4>
+cmake .<br>
+make<br>
+./fork_pids
