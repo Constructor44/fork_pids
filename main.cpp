@@ -10,7 +10,7 @@ int main() {
     cout << "pid: " << pid << endl;
     if (pid == 0) {
         cout << "I am the child process" << endl;
-        cout << "My father is process " << getppid() << endl;
+        cout << "My parent is process " << getppid() << endl;
     } else if (pid > 0) {
         cout << "I am now the parent process of " << pid << endl;
     } else {
